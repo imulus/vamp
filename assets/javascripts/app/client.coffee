@@ -1,4 +1,3 @@
-#= require ../vendor/jquery/core/jquery-1.7.2.min.js
 #= require ../vendor/jquery/plugins/fancybox/jquery.fancybox.js
 #= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-buttons.js
 #= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-media.js
