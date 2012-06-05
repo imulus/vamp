@@ -1,0 +1,21 @@
+#= require ../vendor/jquery/core/jquery-1.7.2.min.js
+#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox.js
+#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-buttons.js
+#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-media.js
+#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-thumbs.js
+#= require ../vendor/bootstrap/bootstrap-alert.js
+#= require ../vendor/bootstrap/bootstrap-button.js
+#= require ../vendor/bootstrap/bootstrap-carousel.js
+#= require ../vendor/bootstrap/bootstrap-collapse.js
+#= require ../vendor/bootstrap/bootstrap-dropdown.js
+#= require ../vendor/bootstrap/bootstrap-modal.js
+#= require ../vendor/bootstrap/bootstrap-popover.js
+#= require ../vendor/bootstrap/bootstrap-scrollspy.js
+#= require ../vendor/bootstrap/bootstrap-tab.js
+#= require ../vendor/bootstrap/bootstrap-tooltip.js
+#= require ../vendor/bootstrap/bootstrap-transition.js
+#= require ../vendor/bootstrap/bootstrap-typeahead.js
+#= require ../lib/retinajs/retina.coffee
+#= require client/main.coffee
+
+$ -> client = new Client

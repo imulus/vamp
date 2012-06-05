@@ -2,9 +2,9 @@
 ._*
 .Spotlight-V100
 .Trashes
-Thumbs.db 
+Thumbs.db
 Desktop.ini
 *.orig
 
-css/application.css
-scripts/application.js
+public/css/client.css
+public/scripts/client.js
