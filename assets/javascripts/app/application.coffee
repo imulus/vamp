@@ -15,6 +15,6 @@
 #= require ../vendor/bootstrap/bootstrap-tab.js
 #= require ../vendor/bootstrap/bootstrap-typeahead.js
 #= require ../lib/retinajs/retina.coffee
-#= require client/main.coffee
+#= require application/main.coffee
 
 $ -> client = new Client
