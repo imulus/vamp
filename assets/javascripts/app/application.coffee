@@ -14,7 +14,7 @@
 #= require ../vendor/bootstrap/bootstrap-scrollspy.js
 #= require ../vendor/bootstrap/bootstrap-tab.js
 #= require ../vendor/bootstrap/bootstrap-typeahead.js
-#= require ../lib/retinajs/retina.coffee
+#= require ../lib/retinajs/retina.js
 #= require application/main.coffee
 
 $ -> client = new Client
