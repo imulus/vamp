@@ -10,5 +10,5 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-public/css/application.css
-public/js/application.js
+css/application.css
+js/application.js
