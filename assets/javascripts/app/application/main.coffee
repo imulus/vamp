@@ -1,8 +1,5 @@
-class Client
-  constructor: ->
-    do @build
-
-  build: ->
-    console.log "Hello from Client#build"
+Client =
+  main: ->
+    console.log "Hello from Client#main"
 
 (window ? exports).Client = Client

@@ -1,7 +1,3 @@
-#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox.js
-#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-buttons.js
-#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-media.js
-#= require ../vendor/jquery/plugins/fancybox/jquery.fancybox-thumbs.js
 #= require ../vendor/bootstrap/bootstrap-transition.js
 #= require ../vendor/bootstrap/bootstrap-alert.js
 #= require ../vendor/bootstrap/bootstrap-button.js
@@ -14,7 +10,8 @@
 #= require ../vendor/bootstrap/bootstrap-scrollspy.js
 #= require ../vendor/bootstrap/bootstrap-tab.js
 #= require ../vendor/bootstrap/bootstrap-typeahead.js
-#= require ../lib/retinajs/retina.coffee
+#= require ../vendor/bootstrap/bootstrap-affix.js
+#= require ../lib/
 #= require application/main.coffee
 
-$ -> client = new Client
+$ -> Client.main()
